@@ -5,6 +5,7 @@ __pycache__
 .DS_Store
 klab*.png
 MNIST_data
+others
 tb
 Untitled*.ipynb
 .ropeproject
